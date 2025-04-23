@@ -35,7 +35,7 @@ The SQL includes sample:
 
 > Add your ERD diagram here, if available.
 
-![ERD](images//mnt/data/A_Entity-Relationship_Diagram_(ERD)_in_the_image_i.png)
+![ERD](images/Erd.png)
 
 ## 💡 How to Use
 
