@@ -35,7 +35,7 @@ The SQL includes sample:
 
 > Add your ERD diagram here, if available.
 
-![ERD](images/Erd.png)
+![ERD](/ecommerce-database-design/images/Erd.png)
 
 ## 💡 How to Use
 
